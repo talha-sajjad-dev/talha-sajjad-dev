@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Talha Sajjad 👋
 
-<!--
-**talha-sajjad-dev/talha-sajjad-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN Stack Developer** based in Sahiwal, Pakistan.
+I build scalable web apps e-commerce platforms,
+CRM systems, and SaaS tools with clean architecture
+and production-ready code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Frontend:** React.js, Next.js, JavaScript,
+Tailwind CSS, Bootstrap, HTML/CSS
+
+**Backend:** Node.js, Express.js, REST APIs, JWT
+
+**Database:** MongoDB, MySQL
+
+**Tools:** Git, Stripe, PayPal, Socket.IO
+
+---
+
+## 🚀 Featured Project
+
+### MERN E-commerce Platform
+Multi-vendor marketplace with role-based dashboards,
+real-time chat (Socket.IO), Stripe/PayPal/COD payments,
+Google OAuth, OTP recovery, and 100+ REST API endpoints.
+
+🔗 [Live Demo](https://talha-mern-shop.netlify.app/)
+
+---
+
+## 📌 About Me
+
+- 🎓 BS Computer Science @ BZU (2026)
+- 💼 1+ year experience · 20+ projects delivered
+- 🔧 Freelance Full Stack Developer
+- 📍 Sahiwal, Pakistan
+- 📫 talhasajjad148@gmail.com
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/talha-sajjad-dev)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:talhasajjad148@gmail.com)
