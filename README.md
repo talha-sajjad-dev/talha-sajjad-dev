@@ -36,7 +36,7 @@ Google OAuth, OTP recovery, and 100+ REST API endpoints.
 - 🎓 BS Computer Science @ BZU (2026)
 - 💼 1+ year experience · 20+ projects delivered
 - 🔧 Freelance Full Stack Developer
-- 📍 Sahiwal, Pakistan
+- 📍 Lahore, Pakistan
 - 📫 talhasajjad148@gmail.com
 
 ---
