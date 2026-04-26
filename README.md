@@ -1,6 +1,6 @@
 # Hi, I'm Talha Sajjad 👋
 
-**MERN Stack Developer** based in Sahiwal, Pakistan.
+**MERN Stack Developer** based in Lahore, Pakistan.
 I build scalable web apps e-commerce platforms,
 CRM systems, and SaaS tools with clean architecture
 and production-ready code.
@@ -34,8 +34,8 @@ Google OAuth, OTP recovery, and 100+ REST API endpoints.
 ## 📌 About Me
 
 - 🎓 BS Computer Science @ BZU (2026)
-- 💼 1+ year experience · 20+ projects delivered
-- 🔧 Freelance Full Stack Developer
+- 💼 1+ year experience · Real World projects
+- 🔧 MERN Stack Developer
 - 📍 Lahore, Pakistan
 - 📫 talhasajjad148@gmail.com
 
