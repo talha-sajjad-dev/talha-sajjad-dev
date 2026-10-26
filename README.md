@@ -34,7 +34,7 @@ Google OAuth, OTP recovery, and 100+ REST API endpoints.
 ## 📌 About Me
 
 - 🎓 BS Computer Science @ BZU (2026)
-- 💼 1+ year experience · Real World projects
+- 💼 3+ year experience · Real World projects
 - 🔧 MERN Stack Developer
 - 📍 Lahore, Pakistan
 - 📫 talhasajjad148@gmail.com
